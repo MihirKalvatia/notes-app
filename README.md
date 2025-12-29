@@ -29,6 +29,7 @@ This project demonstrates backend fundamentals, database integration, and clean 
 
 ## 📂 Project Structure
 
+```
 notes-app/
 │
 ├── database/
@@ -48,6 +49,7 @@ notes-app/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 --------------------------------------------------
 
